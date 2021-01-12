@@ -1,8 +1,8 @@
 # Logo
-favicon = "images/favicon.png"
-logo_desktop = "images/logo.png"
-logo_desktop_width = "250px"
-logo_mobile = "images/logo-mobile.png"
+favicon = "images/favicon.webp"
+logo_desktop = "images/logo.webp"
+logo_desktop_width = "160px"
+logo_mobile = "images/logo.webp"
 logo_mobile_width = "100px"
 
 # meta description
@@ -14,7 +14,7 @@ edit_page_url = ""
 copyright = "Copyright &copy; 2020 [Quixlab](https://quixlab.com/) Docs build with [Godocs Theme](https://gethugothemes.com/products/godocs-hugo-documentation-theme/)"
 
 # custom script
-custom_script= "<script>!function(e,t,n){function a(){var e=t.getElementsByTagName('script')[0],n=t.createElement('script');n.type='text/javascript',n.async=!0,n.src='https://beacon-v2.helpscout.net',e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],'complete'===t.readyState)return a();e.attachEvent?e.attachEvent('onload',a):e.addEventListener('load',a,!1)}(window,document,window.Beacon||function(){}),window.Beacon('init','f46bf437-edf0-4f5c-bdff-62c0962dbf5d');</script>"
+custom_script= "<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement('iframe');window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src='javascript:false',r.title='',r.role='presentation',(r.frameElement||r).style.cssText='display: none',d=document.getElementsByTagName('script'),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain=''+n+'';void(0);',o=s}o.open()._l=function(){var o=this.createElement('script');n&&(this.domain=n),o.id='js-iframe-async',o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body data-rsssl=1 onload='document._l();'>'),o.close()}('https://assets.zendesk.com/embeddable_framework/main.js','gsplugins.zendesk.com');/*]]>*/</script>"
 
 [banner]
 image = "images/banner.jpg"

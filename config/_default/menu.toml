@@ -1,22 +1,26 @@
 [[footer]]
-name = "Github"
-url = "https://github.com/themefisher/"
+name = "Service"
+url = "https://www.gsplugins.com/services/"
 weight = 2
 
 [[footer]]
-name = "Contact"
-url = "https://themefisher.com/contact"
+name = "Support"
+url = "https://www.gsplugins.com/contact/"
 weight = 1
 
 # soial
 [[social]]
 name = "ti-facebook"
-url = "https://facebook.com/themefisher"
+url = "https://www.facebook.com/gsplugins/"
 
 [[social]]
 name = "ti-twitter-alt"
-url = "https://twitter.com/themefisher"
+url = "https://twitter.com/gsplugins"
 
 [[social]]
-name = "ti-github"
-url = "https://github.com/themefisher"
+name = "ti-youtube"
+url = "https://www.youtube.com/channel/UCB0SU0JDMMECS9BGJtD7lzg"
+
+[[social]]
+name = "ti-linkedin"
+url = "https://www.linkedin.com/company/gs-plugins"

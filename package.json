@@ -1,15 +1,15 @@
 {
-  "name": "@quixlab/docs",
+  "name": "@gsplugins/docs",
   "version": "0.0.0",
-  "description": "Documentation site for quixlab.com",
-  "homepage": "https://github.com/quixlab/quixlab-docs#readme",
+  "description": "Documentation site for gsplugins.com",
+  "homepage": "https://github.com/gsplugins/gsplugins-docs#readme",
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quixlab/quixlab-docs.git"
+    "url": "git+https://github.com/gsplugins/gsplugins-docs.git"
   },
   "bugs": {
-    "url": "https://github.com/quixlab/quixlab-docs/issues"
+    "url": "https://github.com/gsplugins/gsplugins-docs/issues"
   },
   "scripts": {
     "serve": "hugo server --disableFastRender --i18n-warnings --navigateToChanged  --templateMetrics --templateMetricsHints --verbose --verboseLog --path-warnings --buildDrafts --buildExpired --buildFuture --watch --enableGitInfo --forceSyncStatic --log true --logFile hugo.log --verbose",
@@ -24,7 +24,7 @@
   ],
   "author": {
     "name": "Mehedi Sharif Titas",
-    "web": "https://quixlab.com"
+    "web": "https://gsplugins.com"
   },
   "maintainers": [
     {
@@ -47,7 +47,7 @@
     "cssnano": "4.1.10",
     "pixrem": "5.0.0",
     "postcss": "8.2.2",
-    "postcss-cli": "8.3.1",
+    "postcss-cli": "^8.3.1",
     "precss": "4.0.0",
     "stylelint": "13.8.0",
     "stylelint-config-sass-guidelines": "7.1.0"
