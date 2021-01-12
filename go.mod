@@ -1,4 +1,4 @@
-module github.com/gethugothemes/documentation
+module github.com/gsplugins/docs
 
 go 1.15
 
