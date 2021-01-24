@@ -8,11 +8,11 @@ logo_mobile_width = "100px"
 # meta description
 author = "Themefisher"
 description = "Documentation for the installation and configuration of our themes."
-topic_title = "Theme Documentations"
+topic_title = "Plugins Documentations"
 premium_badge = true
 feedback_action = ""
 edit_page_url = ""
-copyright = "Copyright &copy; 2020 [GS Plugins](https://gsplugins.com/) Docs build with [Godocs Theme](https://gethugothemes.com/products/godocs-hugo-documentation-theme/)"
+copyright = "Copyright &copy; 2021 [GS Plugins](https://gsplugins.com/) Docs build with [Godocs Theme](https://gethugothemes.com/products/godocs-hugo-documentation-theme/)"
 
 # custom script
 custom_script= ""
@@ -29,18 +29,18 @@ content = "If you don’t find the answer to your issue at our guide and documen
 image = "images/cta-illustration.jpg"
 [call_to_action.button]
 enable = true
-label = "Start a conversation now!"
-link = ""
+label = "Contact Us"
+link = "https://www.gsplugins.com/contact/"
 attribute = ""
 
 [navigation_button_bordered]
 enable = true
 label = "submit ticket"
-link = ""
+link = "https://www.gsplugins.com/contact/"
 attribute = ""
 
 [navigation_button_solid]
-enable = true
+enable = false
 label = "guide"
 link = "guide"
 attribute = ""
