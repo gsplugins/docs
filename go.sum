@@ -1,14 +1,19 @@
 github.com/dnb-hugo/components v0.0.0-20210110114356-4ec59fb5edad h1:Gw1NX7OTVRUk4us0kASVNagkhJLDBWPch0miXaTISeE=
 github.com/dnb-hugo/components/functions v1.0.8/go.mod h1:D1wuewBIRi/K+JS40raRu4iPYReMNYguOF/vXJ7Jv2c=
+github.com/dnb-hugo/components/functions v1.0.9 h1:66jbCp0TPCxPsRiNpeqxBBbbj7eCLPcvFVHwTUAYDZQ=
 github.com/dnb-hugo/components/functions v1.0.9/go.mod h1:D1wuewBIRi/K+JS40raRu4iPYReMNYguOF/vXJ7Jv2c=
 github.com/dnb-hugo/components/netlification v1.1.6 h1:phEzgrMjLdYyLrog4/RRCPWtPB/AY+08ex5CETJW3JM=
 github.com/dnb-hugo/components/netlification v1.1.6/go.mod h1:/iJyqaQDqkx4iUBFMk/8ogo3V8L3tOzwVprsS07+Brc=
 github.com/dnb-hugo/debugprint v1.0.1/go.mod h1:YMvTiP34ADcKHOtCpjeIuzfDyXrh0mSKvfjVt/WXpLM=
 github.com/dnb-hugo/debugprint v1.0.3/go.mod h1:YMvTiP34ADcKHOtCpjeIuzfDyXrh0mSKvfjVt/WXpLM=
 github.com/dnb-hugo/debugprint v1.0.4/go.mod h1:YMvTiP34ADcKHOtCpjeIuzfDyXrh0mSKvfjVt/WXpLM=
+github.com/dnb-hugo/debugprint v1.0.5 h1:XFaHmXyx6XOj14lfbE8obMWHKIvXlHepgLEq+A1ccvc=
 github.com/dnb-hugo/debugprint v1.0.5/go.mod h1:YMvTiP34ADcKHOtCpjeIuzfDyXrh0mSKvfjVt/WXpLM=
+github.com/dnb-hugo/libraries/bootstrap5 v1.2.0 h1:bfQ//pGI71fGda7Mxph744Z8+cm8fbK7yVhpgsPA8VQ=
 github.com/dnb-hugo/libraries/bootstrap5 v1.2.0/go.mod h1:f1PHdrXdCZgkLcbuiTQ9ml8YGxoLw7VWkAapiZoeHtg=
+github.com/dnb-hugo/libraries/popper.js v1.1.2 h1:f2E9px36dUdjaSt8TwJpsSOkevOKtV2bkbXgCKWk7sI=
 github.com/dnb-hugo/libraries/popper.js v1.1.2/go.mod h1:I10AsR1CyPWU5cpsSYhpZaeHCfdMownxSDcye/WJvlc=
+github.com/popperjs/popper-core v2.5.4+incompatible h1:lp9wCvksdsCLWFKrQuT6cl/2aKXUDvTxOfUr58Ju06g=
 github.com/popperjs/popper-core v2.5.4+incompatible/go.mod h1:rrRYxxxrr6Y+9S8V9ttEFhsPN5sFPapL1QOzxjoDz0o=
 github.com/themefisher/core-docs v1.0.3 h1:Bk6QQ6TzTAnIF61Y49fDTr+KLZFrz+Uv9+jOJ9ujwO4=
 github.com/themefisher/core-docs v1.0.3/go.mod h1:yCYCXv5g1mT2ru8oj3vb0AUGXggQ/9bWCmsENNcDzfA=
@@ -20,4 +25,5 @@ github.com/themefisher/core-docs v1.0.26 h1:v+1W7JNcAcSUbJMhyA/taI1FzfA5nwamaXbE
 github.com/themefisher/core-docs v1.0.26/go.mod h1:s67VUuQwLlw0xeMoROv8Z8Y1gZx/Pf+GwwFRsYrPe3w=
 github.com/themefisher/core-docs v1.0.27 h1:ubF/iP2KmynCZPRr9EbOsvZKRDoqS8T+Wgv/I33BP+M=
 github.com/themefisher/core-docs v1.0.27/go.mod h1:s67VUuQwLlw0xeMoROv8Z8Y1gZx/Pf+GwwFRsYrPe3w=
+github.com/twbs/bootstrap v5.0.0-beta1+incompatible h1:/EeMzkCbkTdJ1n6yO8lNbUAOAr0zHgzRiFT005/ei8s=
 github.com/twbs/bootstrap v5.0.0-beta1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
