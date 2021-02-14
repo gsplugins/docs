@@ -1,7 +1,7 @@
 ---
-title: 'Shortcode Usage'
+title: 'Free vs Pro'
 date: '2019-11-06T12:31:22+00:00'
-weight: 7
+weight: 8
 ---
 ##### GS Behance Portfolio’s shortcode usage
 

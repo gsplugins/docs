@@ -1,7 +1,7 @@
 ---
 title: 'Behance Settings'
 date: '2019-11-06T12:31:03+00:00'
-weight: 4
+weight: 5
 ---
 
 Behance Settings instructions added with each field.

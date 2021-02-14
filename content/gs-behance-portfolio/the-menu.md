@@ -1,7 +1,7 @@
 ---
 title: 'The Menu'
 date: '2019-11-06T12:30:56+00:00'
-weight: 5
+weight: 4
 ---
 
 Inside your WordPress admin area, go to GS Plugins. Now you will get submenu like –
