@@ -6,4 +6,4 @@ weight: 1
 
 {{< contentblock "install-search" "NAME:GS Behance Portfolio, SLUG:gs-behance-portfolio, PATH:GS Plugins &gt; Behance">}}
 
-![Install by Search Plugin](http://behance.gsplugins.com/wp-content/uploads/2015/11/Install_by_Search_Plugin_gsbeh.png)
+![Install by Search Plugin](../images/Install_by_Search_Plugin_gsbeh.png)

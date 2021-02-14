@@ -8,4 +8,4 @@ Inside your WordPress admin area, go to GS Plugins. Now you will get submenu lik
 
 - Behance Settings
 
-![GS Behance Portfolio menu](http://behance.gsplugins.com/wp-content/uploads/2015/11/GS_Behance_Portfolio_menu.png)
+![GS Behance Portfolio menu](../images/GS_Behance_Portfolio_menu.png)

@@ -6,4 +6,6 @@ weight: 5
 
 Behance Settings instructions added with each field.
 
-![Behance Settings GS Behance Portfolio](http://behance.gsplugins.com/wp-content/uploads/2015/11/Behance_Settings_GS_Behance_Portfolio.png)
+NOTE : Behance API has been deprecated &amp; not allowed to register new apps to get Behance Access Token. We have rewritten the plugin &amp; GOOD NEWS is that no <em>Behance Access Token</em> needed! Means without Behance API key you can display projects to your site. So, <strong><del>Behance Access Token</del></strong> field deleted at version <strong>2.0.8</strong>
+
+![Behance Settings GS Behance Portfolio](../images/Behance_Settings_GS_Behance_Portfolio.png)

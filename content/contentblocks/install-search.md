@@ -9,4 +9,4 @@ publishResources: false
 - Search NAME
 - Click to install
 - Activate the plugin
-- NAME will available under PATH
+- NAME will available under  PATH

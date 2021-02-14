@@ -3,33 +3,83 @@ title: 'Free vs Pro'
 date: '2019-11-06T12:31:22+00:00'
 weight: 8
 ---
-##### GS Behance Portfolio’s shortcode usage
 
-```
-[gs_behance]
-```
-
-##### GS Behance Portfolio’s Shortcode attributes Usage
-
-```
-[gs_behance userid="creativemints" count="6" column="4" theme="gs_beh_theme1" field="branding"]
-```
-
-Shortcode PHP Usage
-
-Template Usage – Add the shortcode anywhere you need to display GS Behance Portfolio in template files (header.php, front-page.php, etc.)
-
-<div class="table-responsive"><table class="table table-bordered"><tbody><tr><th>No.</th><th>Attribute</th><th>Default value</th><th>options</th><th>Description</th></tr><tr><td>1</td><td>userid</td><td>None</td><td>Behance User ID</td><td>Add your Behance User ID</td></tr><tr><td>2</td><td>count</td><td>6</td><td>Any number</td><td>Set number of projects to display.</td></tr><tr><td>3</td><td>column</td><td>3(4 columns)</td><td>4 (3 columns)   
- 3 (4 columns)</td><td>Columns are based on 12 grids Bootstarp, so follow columns value</td></tr><tr><td>4</td><td>theme</td><td>gs\_beh\_theme1</td><td>gs\_beh\_theme1   
- gs\_beh\_theme2   
- gs\_beh\_theme3   
- gs\_beh\_theme4   
- gs\_beh\_theme5   
- gs\_beh\_theme6   
- gs\_beh\_theme7</td><td>Select preferred theme to display Projects</td></tr><tr><td>5</td><td>field</td><td>None</td><td>Art Direction   
-Branding   
-Web Design   
-Illustration   
-UI/UX</td><td>Select preferred field to display Projects. Go to Behance.net &amp; click on Search icon to see all Creative Fields.   
-**field** parameter case &amp; space sensitive.</td></tr></tbody></table>
-</div>
+<table class="free-vs-pro table table-responsive">
+	<tbody>
+		<tr>
+			<th>Plugin Features</th>
+			<th>Free</th>
+			<th>Pro</th>
+		</tr>
+		<tr>
+			<td>Style &amp; Theming</td>
+		<td class="themes-list">
+			<ul>
+				<li><span class="fa fa-check"></span> Projects</li>
+				<li><span class="fa fa-times"></span> Stat</li>
+				<li><span class="fa fa-times"></span> Hover</li>
+				<li><span class="fa fa-times"></span> Popup</li>
+				<li><span class="fa fa-times"></span> Slider</li>
+				<li><span class="fa fa-times"></span> Profile</li>
+				<li><span class="fa fa-times"></span> Filter</li>
+			</ul>
+		</td>
+		<td class="themes-list">
+			<ul>
+				<li><span class="fa fa-check"></span> Projects</li>
+				<li><span class="fa fa-check"></span> Stat</li>
+				<li><span class="fa fa-check"></span> Hover</li>
+				<li><span class="fa fa-check"></span> Popup</li>
+				<li><span class="fa fa-check"></span> Slider</li>
+				<li><span class="fa fa-check"></span> Profile</li>
+				<li><span class="fa fa-check"></span> Filter</li>
+			</ul>
+		</td>
+		</tr>
+		<tr>
+			<td>Number of Projects</td>
+			<td><span class="fa fa-check"></span></td>
+			<td><span class="fa fa-check"></span></td>
+		</tr>
+		<tr>
+			<td>Columns</td>
+		<td class="themes-list">
+			<ul>
+				<li><span class="fa fa-check"></span> 3 Colmuns</li>
+				<li><span class="fa fa-check"></span> 4 Colmuns</li>
+			</ul>
+		</td>
+		<td class="themes-list">
+			<ul>
+				<li><span class="fa fa-check"></span> 3 Colmuns</li>
+				<li><span class="fa fa-check"></span> 4 Colmuns</li>
+			</ul>
+		</td>
+		</tr>
+		<tr>
+			<td>Link Target</td>
+		<td class="themes-list">
+			<ul>
+				<li><span class="fa fa-check"></span> New Tab</li>
+				<li><span class="fa fa-check"></span> Same Window</li>
+			</ul>
+		</td>
+		<td class="themes-list">
+			<ul>
+				<li><span class="fa fa-check"></span> New Tab</li>
+				<li><span class="fa fa-check"></span> Same Window</li>
+			</ul>
+		</td>
+		</tr>
+		<tr>
+			<td>Custom CSS</td>
+			<td><span class="fa fa-check"></span></td>
+			<td><span class="fa fa-check"></span></td>
+		</tr>
+		<tr>
+			<td>Widget</td>
+			<td><span class="fa fa-times"></span></td>
+			<td><span class="fa fa-check"></span></td>
+		</tr>
+	</tbody>
+</table>
