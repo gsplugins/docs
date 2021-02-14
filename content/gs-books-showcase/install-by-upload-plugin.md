@@ -6,6 +6,6 @@ weight: 2
 
 {{< contentblock "install-upload" "NAME:GS Bookshowcase, SLUG:gs-bookshowcase, PATH:Posts &gt; Pages">}}
 
-![upload plugin gs bookshowcase](http://bookshowcase.gsplugins.com/wp-content/uploads/2016/05/upload-plugin.png)
+![upload plugin gs bookshowcase](../images/upload-plugin.png)
 
-![Select File GS Bookshowcase](http://bookshowcase.gsplugins.com/wp-content/uploads/2015/11/SelectFile.png)
+![Select File GS Bookshowcase](../images/SelectFile.png)

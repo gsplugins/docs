@@ -6,4 +6,4 @@ weight: 1
 
 {{< contentblock "install-search" "NAME:GS Bookshowcase, SLUG:gs-bookshowcase, PATH:Posts &gt; Pages">}}
 
-![Install by Search Plugin](http://bookshowcase.gsplugins.com/wp-content/uploads/2015/11/Install_by_search_GS_Books_Showcase.png)
+![Install by Search Plugin](../images/Install_by_search_GS_Books_Showcase.png)

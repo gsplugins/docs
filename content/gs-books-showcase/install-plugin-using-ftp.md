@@ -7,4 +7,4 @@ weight: 3
 {{< contentblock "install-ftp" "NAME:GS Bookshowcase, SLUG:gs-bookshowcase, PATH:Posts &gt; Pages">}}
 
 
-![Activate GS Bookshowcase](http://bookshowcase.gsplugins.com/wp-content/uploads/2015/11/Activate_GS_bookshowcase.png)
+![Activate GS Bookshowcase](../images/Activate_GS_bookshowcase.png)
