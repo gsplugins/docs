@@ -1,7 +1,7 @@
 ---
 title: 'Shortcode Usage'
 date: '2019-11-06T11:45:26+00:00'
-weight: 5
+weight: 20
 ---
 ##### GS Team Member’s shortcode usage
 

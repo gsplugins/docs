@@ -1,9 +1,19 @@
 ---
 title: 'Style Settings'
 date: '2019-11-06T11:44:58+00:00'
+weight: 12
 ---
-<div class="sec-sep"><div class="one-fourth first">###### <span id="Style_Settings">Style Settings</span>
 
-GS Team Setting options available only at PRO version. At Style Settings instructions added with each field.
+ - Go to GS Team > Team Shortcode & click **Create New Shortcode** or edit existing one. Then click on 2nd tab **Style Settings**
+ 
+ - Style **Member Name** by – Font Size, Weight, Style, Color
+ 
+ - Style **Role / Designation** by – Font Size, Weight, Style, Color
+ 
+ - Style **Ribbon, Popup** by – Ribbon BG Color, Popup Arrow Color
+ 
+ - Based on your selection at *left side*, **preview** will display at *right area*.
+ 
+ - ** Different number of setting options will available upon theme selection.
 
-</div><div class="three-fourths"> ![GS Team Style Settings](http://team.gsplugins.com/wp-content/uploads/2015/11/GS_team_Style_settings-1.png) </div></div>
+![GS Team Style Settings](../images/style_settings.png)

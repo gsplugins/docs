@@ -1,19 +1,28 @@
 ---
 title: 'Add New Member'
 date: '2019-11-06T11:44:37+00:00'
-
+weight: 6
 ---
-<div class="sec-sep"><div class="one-fourth first">###### <span id="Add_New_Member">Add New Member</span>
 
 Available fields to add info:
 
 - Member Name
 - Member Details
 - Designation
+- Company
+- Land Phone
+- Cell Phone
+- Email
+- Address
 - Ribon
-- Member Image
+- Flip Image (For Flip Theme)
 - Team Group / Department
-- 40 Social Icons available to add Links 
+- Language
+- Location
+- Gender
+- Specialty
+- Member Image
+- 40 Social Icons available to add Links
   - Linkedin
   - Facebook
   - Twitter
@@ -56,4 +65,4 @@ Available fields to add info:
   - SlideShare
 - Skill filelds to add as many you want
 
-</div><div class="three-fourths">![Add New Team Member](http://team.gsplugins.com/wp-content/uploads/2015/11/Add-new-Team-member.png)</div></div>
+![Add New Team Member](../images/Add-new-Team-member.png)

@@ -1,8 +1,9 @@
 ---
 title: 'Free vs Pro'
 date: '2019-11-06T11:45:41+00:00'
-weight : 1
+weight: 22
 ---
+
 <div class="table-responsive"><table class="free-vs-pro"><tbody><tr><th>GS Team Member Features</th><th>Free</th><th>Pro</th></tr><tr><td>Themes</td><td class="themes-list">- Grid 1 (Hover)
 - Circle 1 (Hover)
 - Horizontal 1
