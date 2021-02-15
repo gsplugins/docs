@@ -12,4 +12,4 @@ Go to GS Coach -&gt; All Coaches to see all the Coaches you added till now. Ment
 - Coaches Group
 - Date
 
-![All Coaches](http://coach.gsplugins.com/wp-content/uploads/2015/11/All_Coaches.png "All Coaches")
+![All Coaches](../images/All_Coaches.png "All Coaches")

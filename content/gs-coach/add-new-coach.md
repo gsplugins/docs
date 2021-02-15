@@ -1,7 +1,7 @@
 ---
 title: 'Add New Coach'
 date: '2019-11-07T05:53:50+00:00'
-weight: 4
+weight: 6
 ---
 
 Available fields to add info:
@@ -34,4 +34,4 @@ Available fields to add info:
 - Coach Image
 - Coach’s Certificate (Multiple Certificates)
 
-![Add new Coach](http://coach.gsplugins.com/wp-content/uploads/2015/11/Add-new-Coach.png "Add new Coach")
+![Add new Coach](../images/Add-new-Coach.png "Add new Coach")

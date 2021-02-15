@@ -7,4 +7,4 @@ weight: 3
 {{< contentblock "install-ftp" "NAME:GS Coach, SLUG:gs-coach, PATH:Posts &gt; Pages">}}
 
 
-![Activate GS Coach](http://coach.gsplugins.com/wp-content/uploads/2015/11/Activate_GS_Coach.png)
+![Activate GS Coach](../images/Activate_GS_Coach.png)
