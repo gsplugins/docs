@@ -8,22 +8,21 @@ weight: 11
 [gs_tweet_tag hashtag="RichMovies" tweet_number="10" theme="gstf_theme2" link="_blank"]
 ```
 
-<div class="table-responsive">
-	<table class="table table-bordered">
-		<tbody>
+<table class="table table-responsive table-bordered">
+	<tbody>
 		<tr>
-<th>No.</th>
-<th>Attribute</th>
-<th>Default value</th>
-<th>options</th>
-<th>Description</th>
+			<th>No.</th>
+			<th>Attribute</th>
+			<th>Default value</th>
+			<th>options</th>
+			<th>Description</th>
 		</tr>
 		<tr>
 			<td>1</td>
 			<td>hashtag</td>
 			<td>none</td>
 			<td>Tag Name</td>
-			<td>Add your preffered Tag <br> <b>Note</b> ** Multiple tag not supported</td>
+			<td>Add your preffered Tag <br> <b>Note</b> - Multiple tag not supported</td>
 		</tr>
 		<tr>
 			<td>2</td>
