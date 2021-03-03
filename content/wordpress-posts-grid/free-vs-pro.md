@@ -42,6 +42,7 @@ weight: 10
 <li><span class="fa fa-times"></span> Popup 2</li>
 <li><span class="fa fa-times"></span> Filter 1 : Hover &amp; Pop</li>
 <li><span class="fa fa-times"></span> Filter 2 : Link &amp; Pop</li>
+<li><span class="fa fa-times"></span> Filter : Selected Cats</li>
 <li><span class="fa fa-times"></span> Masonry 1 : Details</li>
 <li><span class="fa fa-times"></span> Masonry 2 : Title</li>
 <li><span class="fa fa-times"></span> Masonry 3 : Gallery</li>

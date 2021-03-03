@@ -72,15 +72,16 @@ Template Usage – Add the shortcode anywhere you need to display GS Posts Grid 
 			gs_wppost_table_1 <br>  
 			gs_wppost_table_2 <br>  
 			gs_wppost_table_3 <br>  
-			gs_wppost_grey_1   
+			gs_wppost_grey_1 <br>
 			gs_wppost_grey_2   
 			gs_wppost_slider_1   
 			gs_wppost_slider_2   
 			gs_wppost_slider_3   
 			gs_wppost_popup_1   
 			gs_wppost_popup_2   
-			gs_wppost_filter_1   
-			gs_wppost_filter_2   
+			gs_wppost_filter_1 <br>  
+			gs_wppost_filter_2
+			gs_wppost_filter_selected_cats <br>
 			gs_wppost_masonry1   
 			gs_wppost_masonry2   
 			gs_wppost_masonry3   

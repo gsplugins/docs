@@ -1,6 +1,6 @@
 ---
 title: 'Install by Upload Plugin'
-date: '2019-11-06T10:05:50+00:00'
+date: '2019-01-01T12:29:59+00:00'
 weight: 2
 ---
 

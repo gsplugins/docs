@@ -1,0 +1,11 @@
+table.free-vs-pro th, table.free-vs-pro td {
+    text-align: center;
+}
+table.free-vs-pro tr td .ti-close {
+    color: #f8776a;
+    font-weight: 600;
+}
+table.free-vs-pro tr td .ti-check {
+    color: #07d407;
+    font-weight: 600;
+}

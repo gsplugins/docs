@@ -1,6 +1,6 @@
 ---
 title: 'GS Testimonial Slider'
-date: '2019-11-06T12:29:59+00:00'
+date: '2015-01-01 16:37:34.690 +0600'
 type: docs
 premium: true
 draft: false

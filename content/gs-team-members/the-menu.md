@@ -24,4 +24,4 @@ Inside your WordPress admin area, go to GS Team Member. Now you will get submenu
 - Contact Us
 - Upgrade
 
-![GS Team menu](../images/gs_team_menu.png)
+![GS Team menu](../images/gs_team_menu_new.png)

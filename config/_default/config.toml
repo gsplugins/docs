@@ -1,4 +1,6 @@
 baseURL = "https://docs.gsplugins.com/"
 languageName = "En"
-title = "Documentation Website for Quixlab"
+title = "Documentation Website for GS Plugins"
 enableGitInfo = true
+
+customCss = ["css/custom.css"]

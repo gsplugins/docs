@@ -1,5 +1,6 @@
 ---
 title: 'Style Settings'
+date: '2019-01-01T12:29:59+00:00'
 Weight: 8
 ---
 
